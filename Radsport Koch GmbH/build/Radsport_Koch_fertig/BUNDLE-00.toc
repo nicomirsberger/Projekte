@@ -1,3 +1,0 @@
-([('Radsport_Koch_fertig',
-   '/Users/student/Alle Projekte/Radsport Koch GmbH/dist/Radsport_Koch_fertig',
-   'EXECUTABLE')],)
