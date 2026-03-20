@@ -158,7 +158,7 @@ class RadsportApp(ctk.CTk):
                     </tr>
                     <tr class="total-row">
                         <td colspan="4" style="text-align: right;">Rechnungsbetrag:</td>
-                        <td style="color: #e74c3c;">{gesamt_str} €</td>
+                        <td style="color: #993c31;">{gesamt_str} €</td>
                     </tr>
                 </tbody>
             </table>
